@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "compile": "tsc ./calc.ts"
+    "compile": "tsc ./calc.ts --watch"
   },
   "dependencies": {
     "typescript": "^5.7.2"
